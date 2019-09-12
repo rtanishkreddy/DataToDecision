@@ -11,3 +11,6 @@
 # Logo
 ![R Studio Logo](https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png)
 
+### License
+This repository is been licensed with MIT.
+[Click here](LICENSE)
