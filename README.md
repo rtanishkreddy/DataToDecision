@@ -13,4 +13,4 @@
 
 ### License
 This repository is been licensed with MIT.
-[Click here](LICENSE)
+[Click here](LICENSE) for more info!
