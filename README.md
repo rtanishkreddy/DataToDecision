@@ -5,7 +5,7 @@
  _People all over the world are turning to R, an open source statistical language, to make sense of data._
 
 # Assignments
-* [Data Entry Analysis](https://github.com/rtanishkreddy/Data-Entry-Analysis)
+* [Data Entry Analysis](https://github.com/rtanishkreddy/DataToDecision/blob/master/DataEntryAnalysis.md)
 * [Data Exploration](https://github.com/rtanishkreddy/Data-exploration)
 
 # Logo
