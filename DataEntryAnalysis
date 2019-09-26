@@ -23,7 +23,8 @@ and therefore there must be an extra header specifiying time.
 - Add time column for better understanding.
 - Specify the format for dates and time.
 - Specify units for depth, temperature, Density etc.
-- For every blank cell, using "average" function in excel to add that calculated value or replacing it with "NA" will prevent tables hinder study.
+- For every blank cell, using "average" function in excel to add that calculated value or replacing it with
+"NA" will prevent tables hinder study.
 
 
 ## re-creating table format
