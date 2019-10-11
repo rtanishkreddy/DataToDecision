@@ -10,6 +10,7 @@ It is easy to comprehend from the scatter plot so produced that the range of tem
 The above scatterplot represents how temperature variable depends on the intensity variable. With the increase in the temperature, the intensity started to vary and started to increase at the same time. With temperature being at the lower side, Intensity hence remained at the bottom of the graph showing that with the increase in the temperature, intensity tends to increase.
 ### 3) scatterplot with three variables 
 ![](https://github.com/rtanishkreddy/DataToDecision/blob/master/DataExplorationFiles/color_scatter_threevar.png)
+>ggplot(TempData, aes(y = Temp, x = Date, color=Intensity)) + geom_point()
 
 Considering all the three variables i.e., Temperature, Intensity, Date, and the color code that is given to the intensity variable, it is easy to comprehend how intensity depends on the temperature where upper end of the graph represents higher temperature and light blue dots represents higher degree of intensity. With more number of light blue dots being present at the upper area of the plot, we can say that higher temperature tends to higher degree of intensity.
 ### 4) temperature and intensity relation using the trend line
