@@ -28,4 +28,5 @@ To prove above inferences, I tried adding a trend line to the graph. Here with t
 
 ![](https://github.com/rtanishkreddy/DataToDecision/blob/master/DataExplorationFiles/boxplot.png)
 >boxplot(TempData$Temp, ylab="Temperature", horizontal = TRUE)
+
 Here, bar plot gives us a good idea considering it gives us an extra factor with the average. With this box plot, it shows that the mean temperature lies around 15 degree Celsius and most of the temperature set lying between 12 to 22.
