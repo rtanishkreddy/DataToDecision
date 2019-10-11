@@ -6,7 +6,7 @@
 
 # Assignments
 * [Data Entry Analysis](https://github.com/rtanishkreddy/DataToDecision/blob/master/DataEntryAnalysis.md)
-* [Data Exploration](https://github.com/rtanishkreddy/Data-exploration)
+* [Data Exploration](https://github.com/rtanishkreddy/DataToDecision/tree/master/DataExplorationFiles)
 
 # Logo
 ![R Studio Logo](https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png)
